@@ -8,9 +8,8 @@ This repository contains supplementary materials for the paper titled "Evaluatio
 
 The repository is structured as follows:
 
-- `/data`: This directory contains the raw and processed datasets used in the analysis. Due to privacy considerations, personally identifiable information has been removed.
-- `/analysis`: Jupyter notebooks or R scripts with the statistical tests and visualization code used in the paper.
-- `/results`: CSV files, tables, and additional figures that supplement the results presented in the paper.
+- `/analysis`: Jupyter notebooks with the statistical tests.
+- `/results`: XLSX and HTML files that supplement the results presented in the paper.
 - `/docs`: Documentation on data sources, methodology, and additional resources.
 
 ### How to Use This Repository
