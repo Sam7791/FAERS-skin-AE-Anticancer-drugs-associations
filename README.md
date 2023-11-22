@@ -1,0 +1,2 @@
+# FAERS-skin-AE-Anticancer-drugs-associations
+Supplementary results for the papers "EVALUATION OF ANTICANCER THERAPY- RELATED DERMATOLOGIC ADVERSE EVENTS: INSIGHTS FROM FDA's FAERS DATASET"
